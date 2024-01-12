@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akesarkar
 - 👀 I’m interested in Data Scinece and Analytics
-- 🌱 I’m currently learning python
+- 🌱 I’m working as Quant
 - 💞️ I’m looking to collaborate on real world problems
 - 📫 you can reach me at akesarkar81@gmail.com
 
